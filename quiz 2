@@ -1,7 +1,7 @@
 <!Doctype html>
 <html>
 	<head>
-	  <link rel="stylesheet" href="replace this.css" type="text/css">
+	  <link> rel="stylesheet" href="replace this.css" type="text/css" <link/>
 	</head>
 	  <body><p>Lorem Ipsum is simply dummy text of the 
 		printing and typesetting industry. Lorem Ipsum has 
@@ -18,16 +18,16 @@
 			<div>
 		<nav>
 	      <li>Home
-	      <li>about
+	      <li>About
 	      <li>Content
-	  <nav>
+	  	</nav>
 	      <header> This is the header
-				</header>
+		</header>
 					<section> this is the section
 					</section>
 						<aside> This is the aside
 						</aside>
-				<footer> This is the footer The end
+				<footer> This is the footer
 				</footer>
 			</div>
-		</body
+		</body>
