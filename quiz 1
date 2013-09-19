@@ -4,10 +4,10 @@
 	  <link rel="stylesheet" href="replace this.css" type="text/css">
 	</head>
 	  <nav>
-	      <li>Home
-	      <li>about
-	      <li>Content
-	  <nav>
+	      <li>Home</li>
+	      <li>About</li>
+	      <li>Content</li>
+	  </nav>
 		<body><p>Lorem Ipsum is simply dummy text of the 
 		printing and typesetting industry. Lorem Ipsum has 
 		been the industry's standard dummy text ever since 
@@ -33,3 +33,4 @@
 				</footer>
 			</div>
 		</body>
+</html>
